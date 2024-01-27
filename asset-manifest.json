@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Harpreetbe26.github.io/ReactDemo/static/css/main.c0c40cfa.css",
+    "main.js": "/Harpreetbe26.github.io/ReactDemo/static/js/main.82c2f21f.js",
+    "static/js/787.b098ecc4.chunk.js": "/Harpreetbe26.github.io/ReactDemo/static/js/787.b098ecc4.chunk.js",
+    "index.html": "/Harpreetbe26.github.io/ReactDemo/index.html",
+    "main.c0c40cfa.css.map": "/Harpreetbe26.github.io/ReactDemo/static/css/main.c0c40cfa.css.map",
+    "main.82c2f21f.js.map": "/Harpreetbe26.github.io/ReactDemo/static/js/main.82c2f21f.js.map",
+    "787.b098ecc4.chunk.js.map": "/Harpreetbe26.github.io/ReactDemo/static/js/787.b098ecc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0c40cfa.css",
+    "static/js/main.82c2f21f.js"
+  ]
+}
